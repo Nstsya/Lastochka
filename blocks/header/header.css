@@ -10,7 +10,7 @@
    /* width: calc(100% - 96px);*/
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 767px) {
     .header {
         max-width: 100%;
         margin-top: 28px;

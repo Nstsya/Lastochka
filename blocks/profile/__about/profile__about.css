@@ -1,4 +1,5 @@
 .profile__about {
-    border: 1px solid greenyellow;
-    color: #ffffff;
+display: flex;
+flex-direction: row;
+border: 1px solid magenta;
 }

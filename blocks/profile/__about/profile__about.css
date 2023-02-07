@@ -1,5 +1,10 @@
 .profile__about {
 display: flex;
 flex-direction: row;
-border: 1px solid magenta;
+}
+
+@media screen and (max-width: 500px) {
+    .profile__about {
+       justify-content: space-between;
+    }
 }

@@ -1,5 +1,4 @@
 .profile__info {
-    border: 1px solid greenyellow;
     color: #ffffff;
     display: flex;
     flex-direction: row;
@@ -8,4 +7,4 @@
 @media screen and (max-width: 500px) {
     .profile__info {
         flex-direction: column;
-    }
+    }}

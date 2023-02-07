@@ -8,6 +8,9 @@
     background-color: transparent;
     border: 2px solid #FFFFFF;
     border-radius: 2px;
+    background-image: url(../../../images/editbutton.png);
+    background-repeat: no-repeat;
+    background-position: center;
 }
 
 @media screen and (max-width: 500px) {
@@ -16,4 +19,5 @@
         width: 18px;
         height: 18px;
         margin-left: 12px;
+        background-image: url(../../../images/editbutton320.png);
     }}

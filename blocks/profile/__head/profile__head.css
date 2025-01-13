@@ -5,7 +5,7 @@
     font-family: 'Inter', Arial, Helvetica, sans-serif;
     font-style: normal;
     font-weight: 400;
-    font-size: 18px;
+    font-size: 14px;
     line-height: 22px;
     white-space: nowrap;
     overflow: hidden;
@@ -15,7 +15,7 @@
 @media screen and (max-width: 500px) {
     .profile__head {
         margin-left: 25px;
-        font-size: 14px;
+        font-size: 10px;
         line-height: 17px;
         text-align: center;
     }
